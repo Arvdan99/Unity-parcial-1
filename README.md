@@ -22,3 +22,5 @@
 - Rim: proporciona un efecto de iluminación solo en orillas.
 - Phong: proporciona el efecto de brillo.
 - Banded: iluminación con estilo de anillos entre los colores blanco y negro.
+- Wrap: Nos da el control sobre la luz y por tanto de las sombras tambien. 
+-
